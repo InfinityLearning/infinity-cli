@@ -1,4 +1,8 @@
-infinity-cli
+Infinity Command Line Interface
 ============
 
-Command Line Framework for Infinity Framework
+## Installation ##
+
+To install the Infinity Command Line Interface, first install NodeJS and Git, then from the command line run:
+
+    npm install -g infinity-cli
